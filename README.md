@@ -53,19 +53,20 @@ docker logs waha-server -f
 ## Prints de Funcionamento
 
 ### WAHA rodando no Docker
-![Docker](prints/docker.png)
+![docker](https://github.com/user-attachments/assets/bc723450-f085-418a-afc1-fba3859fc777)
 
 ### Acesso ao WAHA via navegador
-![WAHA Swagger](prints/imagem1.png)
+![imagem1](https://github.com/user-attachments/assets/5ecb348f-9cf5-4f1b-9d0b-6f8d39998d5b)
 
 ### Swagger da API FastAPI (MCP)
-![Swagger MCP](prints/imagem2.png)
+![imagem2](https://github.com/user-attachments/assets/3879a315-5fb0-4de0-a628-4627df287810)
 
 ### Swagger - Envio por nome
-![Swagger Envio](prints/tela.png)
+![tela](https://github.com/user-attachments/assets/7a28cd73-a3b9-4973-8c46-98e853fe3848)
 
 ### Retorno da API
-![Resposta](prints/tela1.png)
+![tela1](https://github.com/user-attachments/assets/73208aba-926d-4ec7-b488-5f1ce97df80d)
+![tela2](https://github.com/user-attachments/assets/7d38bac7-cad1-4d5d-9a7a-307b7bfd3450)
 
 ### Mensagem recebida no WhatsApp
 ![mensagem_recebida](https://github.com/user-attachments/assets/2a53c146-6e36-4454-8663-7f8bbaa757ac)
