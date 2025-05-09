@@ -6,8 +6,9 @@ app = FastAPI()
 
 # === Contatos pré-carregados ===
 contatos = {
-    "lara": {"nome": "Lara", "numero": "+556195531301"},
-    "pedro": {"nome": "Pedro", "numero": "+556193795321"}
+    "lara": {"nome": "Lara", "numero": "+5561xxxxxxxx"},
+    "pedro": {"nome": "Pedro", "numero": "+5561xxxxxxxx"},
+    "philippe": {"nome": "Philippe", "numero": "+5562xxxxxxxx"}
 }
 
 # === Modelo da requisição para a tool ===
