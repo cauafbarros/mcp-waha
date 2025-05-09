@@ -68,7 +68,8 @@ docker logs waha-server -f
 ![Resposta](prints/tela1.png)
 
 ### Mensagem recebida no WhatsApp
-![Mensagem Recebida](prints/mensagem_recebida.png)
+![mensagem_recebida](https://github.com/user-attachments/assets/2a53c146-6e36-4454-8663-7f8bbaa757ac)
+
 
 ---
 
