@@ -78,7 +78,7 @@ docker logs waha-server -f
 
 - Acesse `http://127.0.0.1:8000/docs`  
 - Teste `/tools/send_message/by_name/joao`  
-- A mensagem “Bom dia, João!” será enviada via WhatsApp
+- A mensagem para o contato será enviada via WhatsApp
 
 ---
 
