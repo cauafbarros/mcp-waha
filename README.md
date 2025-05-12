@@ -77,7 +77,7 @@ docker logs waha-server -f
 ## Teste final
 
 - Acesse `http://127.0.0.1:8000/docs`  
-- Teste `/tools/send_message/by_name/joao`  
+- Teste `/tools/send_message/by_name/"contato"`  
 - A mensagem para o contato será enviada via WhatsApp
 
 ---
